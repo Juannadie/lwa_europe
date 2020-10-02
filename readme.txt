@@ -1,3 +1,6 @@
+*This file replicate the research in: 
+https://doi.org/10.1016/j.euroecorev.2020.103564
+
 *Code Files in R are prepared to read sequentially 
 
 *They are set to run if data files (EU-SILC personal files (P) in .dta format) are in the same directory set as working directory. Note EU-SILC data files are not provided, and must be obtained from Eurostat.
